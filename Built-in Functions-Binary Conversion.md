@@ -21,4 +21,4 @@ print(b)
 
 
 ## Result
-hence, the program is written an executed
+hence, the program is written and executed
