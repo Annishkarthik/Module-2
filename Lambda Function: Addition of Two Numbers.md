@@ -16,7 +16,7 @@ print(f(a,b))
 
 ## Output
 <img width="1140" height="433" alt="image" src="https://github.com/user-attachments/assets/822c7490-b674-4073-9791-a87abe0a7b6f" />
-<img width="1140" height="433" alt="image" src="https://github.com/user-attachments/assets/fa95f2e7-00cd-4944-9e17-14d58a450298" />
+<img width="1236" height="333" alt="image" src="https://github.com/user-attachments/assets/385b5ae1-4206-4da3-96e6-824db7b8f30a" />
 
 
 
